@@ -36,6 +36,7 @@ public class PlayerInput : MonoBehaviour
             print("ahoy");
             Vector3 position = new Vector3(0, 0, 0);
             transform.position += (new Vector3(-_speed, 0, 0) * Time.deltaTime * _speed);
+            transform.rotation = Quaternion.Euler(0, 180, 0);
         }
 
         if (Input.GetKey(KeyCode.S))
@@ -50,6 +51,7 @@ public class PlayerInput : MonoBehaviour
             print("dag");
             Vector3 position = new Vector3(0, 0, 0);
             transform.position += (new Vector3(_speed, 0, 0) * Time.deltaTime * _speed);
+            transform.rotation = Quaternion.Euler(0, 0, 0);
         }
     }
     /*
