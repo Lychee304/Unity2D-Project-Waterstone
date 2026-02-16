@@ -8,7 +8,8 @@ public class PlayerInput : MonoBehaviour
     [SerializeField] private float _speed = 2.5f;
     [SerializeField] private string _coinTag = "Coin";
     [SerializeField] private string _powerUp = "PowerUp";
-    [SerializeField] public float _addSpeed = 1;
+    [SerializeField] private float _addSpeed = 1;
+    [SerializeField] private int _health = 100;
 
     private int _coins = 0;
     public int score = 0;
@@ -16,7 +17,7 @@ public class PlayerInput : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
@@ -62,26 +63,25 @@ public class PlayerInput : MonoBehaviour
 
     */
 
-    
+
 
     // collider? i hardly know her
 
-    /*
 
     private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Enemy"))
         {
-        CoinValue coinValue;
-        if (collision.gameObject.CompareTag(_coinTag) && collision.gameObject.TryGetComponent<CoinValue>(out coinValue))
-        {
-            score += coinValue.GetScoreWorth();
-            print("current score: " + score);
+            _health -= 50;
+            print("current health: " + _health);
 
 
 
             Destroy(collision.gameObject);
-            _coins++;
-            print("You now have " + _coins + " coins, hell yeah!");
+            print("You now have die lmao");
         }
+
+        /*
 
         SpeedUp speedUp;
 
@@ -95,5 +95,6 @@ public class PlayerInput : MonoBehaviour
     */
 
         // print(collision.gameObject.transform.position);
-    
+
+    }
 }
