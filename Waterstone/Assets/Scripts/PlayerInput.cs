@@ -25,7 +25,7 @@ public class PlayerInput : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.W))
         {
-            print("waddup");
+            // print("waddup");
             Vector3 position = new Vector3(0, 0, 0);
             transform.position += (new Vector3(0, _speed, 0) * Time.deltaTime * _speed);
             // transform.rotation = Quaternion.Euler(10, 0, 0);
@@ -34,7 +34,7 @@ public class PlayerInput : MonoBehaviour
 
         if (Input.GetKey(KeyCode.A))
         {
-            print("ahoy");
+            // print("ahoy");
             Vector3 position = new Vector3(0, 0, 0);
             transform.position += (new Vector3(-_speed, 0, 0) * Time.deltaTime * _speed);
             transform.rotation = Quaternion.Euler(0, 180, 0);
@@ -42,14 +42,14 @@ public class PlayerInput : MonoBehaviour
 
         if (Input.GetKey(KeyCode.S))
         {
-            print("sup");
+            // print("sup");
             Vector3 position = new Vector3(0, 0, 0);
             transform.position += (new Vector3(0, -_speed, 0) * Time.deltaTime * _speed);
         }
 
         if (Input.GetKey(KeyCode.D))
         {
-            print("dag");
+            // print("dag");
             Vector3 position = new Vector3(0, 0, 0);
             transform.position += (new Vector3(_speed, 0, 0) * Time.deltaTime * _speed);
             transform.rotation = Quaternion.Euler(0, 0, 0);
@@ -76,11 +76,13 @@ public class PlayerInput : MonoBehaviour
             print("current health: " + _health);
 
 
+            if (_health <= 0)
+            {
 
-            Destroy(collision.gameObject);
-            print("You now have die lmao");
+                Destroy(collision.gameObject);
+                print("You now have die lmao");
+            }
         }
-
         /*
 
         SpeedUp speedUp;
