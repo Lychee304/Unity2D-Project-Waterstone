@@ -9,7 +9,6 @@ public class PlayerInput : MonoBehaviour
     [SerializeField] private string _coinTag = "Coin";
     [SerializeField] private string _powerUp = "PowerUp";
     [SerializeField] private float _addSpeed = 1;
-    [SerializeField] private int _health = 100;
 
     private int _coins = 0;
     public int score = 0;
@@ -67,36 +66,35 @@ public class PlayerInput : MonoBehaviour
 
     // collider? i hardly know her
 
+    /*
 
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.gameObject.CompareTag("Enemy"))
-        {
-            _health -= 50;
-            print("current health: " + _health);
+   private void OnCollisionEnter2D(Collision2D collision)
+   {
+       if (collision.gameObject.CompareTag("Enemy"))
+       {
+           _health -= 50;
+           print("current health: " + _health);
 
 
-            if (_health <= 0)
-            {
+           if (_health <= 0)
+           {
 
-                Destroy(collision.gameObject);
-                print("You now have die lmao");
-            }
-        }
-        /*
+               Destroy(collision.gameObject);
+               print("You now have die lmao");
+           }
+       }
 
-        SpeedUp speedUp;
+       SpeedUp speedUp;
 
-        if (collision.gameObject.CompareTag(_powerUp) && collision.gameObject.TryGetComponent<SpeedUp>(out speedUp))
-        {
-            Destroy(collision.gameObject);
-            _speed =+ _addSpeed;
-            print("iem veri fastdd!!!");
-        }
+       if (collision.gameObject.CompareTag(_powerUp) && collision.gameObject.TryGetComponent<SpeedUp>(out speedUp))
+       {
+           Destroy(collision.gameObject);
+           _speed =+ _addSpeed;
+           print("iem veri fastdd!!!");
+       }
 
-    */
+   */
 
-        // print(collision.gameObject.transform.position);
+    // print(collision.gameObject.transform.position);
 
-    }
 }
