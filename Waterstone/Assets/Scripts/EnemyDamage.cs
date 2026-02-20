@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class EnemyDamage : MonoBehaviour
 {
-    public PlayerHealth playerHealth;
-    public int damage = 20;
+    private PlayerHealth _playerHealth;
+    private int _damage = 20;
     void Start()
     {
 
@@ -20,7 +20,7 @@ public class EnemyDamage : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            playerHealth.TakeDamage(damage);
+            _playerHealth.TakeDamage(_damage);
         }
     }
 }
