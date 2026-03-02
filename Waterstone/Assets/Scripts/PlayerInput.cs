@@ -44,6 +44,7 @@ public class PlayerInput : MonoBehaviour
             // print("sup");
             Vector3 position = new Vector3(0, 0, 0);
             transform.position += (new Vector3(0, -_speed, 0) * Time.deltaTime * _speed);
+            transform.rotation = Quaternion.Euler(0, 90, 0);
         }
 
         if (Input.GetKey(KeyCode.D))
