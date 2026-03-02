@@ -27,6 +27,7 @@ public class PlayerInput : MonoBehaviour
             // print("waddup");
             Vector3 position = new Vector3(0, 0, 0);
             transform.position += (new Vector3(0, _speed, 0) * Time.deltaTime * _speed);
+            transform.rotation = Quaternion.Euler(0, 270, 0);
             // transform.rotation = Quaternion.Euler(10, 0, 0);
             // transform.localScale = new Vector3(2, 2, 2);
         }
