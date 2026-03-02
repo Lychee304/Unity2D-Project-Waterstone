@@ -14,7 +14,7 @@ public class EnemyDamage : MonoBehaviour
 
     }
 
-    // void da warrenty haa gottem
+    // void da warrenty hahaaa gottem
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
