@@ -1308,7 +1308,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 8
+  orthographic size: 6
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1800,7 +1800,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 8
+  orthographic size: 6
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1890,10 +1890,10 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 4294967295
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -1987,8 +1987,8 @@ Transform:
   m_GameObject: {fileID: 913927432}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.0096, y: -5.08, z: 0}
-  m_LocalScale: {x: 22.7408, y: 1, z: 1}
+  m_LocalPosition: {x: -4.3737, y: -5.08, z: 0}
+  m_LocalScale: {x: 31.468721, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -2409,6 +2409,43 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _health: 0
   _maxHealth: 100
+--- !u!70 &1355302022
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 708535603}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 1, y: 1}
+  m_Direction: 0
 --- !u!1 &1396177827
 GameObject:
   m_ObjectHideFlags: 0
@@ -2951,7 +2988,7 @@ MonoBehaviour:
     CustomLookAtTarget: 0
   Lens:
     FieldOfView: 34
-    OrthographicSize: 8
+    OrthographicSize: 6
     NearClipPlane: 0.3
     FarClipPlane: 1000
     Dutch: 0
@@ -3787,6 +3824,10 @@ PrefabInstance:
       propertyPath: m_Interpolate
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 8426911167613612742, guid: 3cc4faed4d4beca4c8be8df1ca8f28fc, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8706831464648087661, guid: 3cc4faed4d4beca4c8be8df1ca8f28fc, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0.001
@@ -3853,6 +3894,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 2091807539896836307, guid: 3cc4faed4d4beca4c8be8df1ca8f28fc, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1355302018}
+    - targetCorrespondingSourceObject: {fileID: 2091807539896836307, guid: 3cc4faed4d4beca4c8be8df1ca8f28fc, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1355302022}
   m_SourcePrefab: {fileID: 100100000, guid: 3cc4faed4d4beca4c8be8df1ca8f28fc, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
