@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem.Layouts;
 using UnityEngine.Rendering;
 
 public class EnemyFollowCursor : MonoBehaviour
@@ -6,6 +7,7 @@ public class EnemyFollowCursor : MonoBehaviour
 
     private Vector3 Mouse;
     [SerializeField] private float speed = 1;
+    bool followMouse = true;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -15,7 +17,11 @@ public class EnemyFollowCursor : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Mouse = Camera.main.ScreenToWorldPoint(Mouse);
-        transform.position = Vector2.Lerp(transform.position, Mouse, speed);
+        if (Input.GetMouseButton(1)) // its a easter egg :)
+        {
+            Mouse = Input.mousePosition;
+            Mouse = Camera.main.ScreenToWorldPoint(Mouse);
+            transform.position = Vector2.Lerp(transform.position, Mouse, speed);
+        }
     }
 }
