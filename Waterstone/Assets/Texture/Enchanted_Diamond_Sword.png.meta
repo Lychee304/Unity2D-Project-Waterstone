@@ -1,0 +1,3029 @@
+fileFormatVersion: 2
+guid: a30581503d0fef1439fa99b25f27f58e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4890786072761829997
+    second: Enchanted_Diamond_Sword_0
+  - first:
+      213: -8273145435127604660
+    second: Enchanted_Diamond_Sword_1
+  - first:
+      213: 6677888543122127451
+    second: Enchanted_Diamond_Sword_2
+  - first:
+      213: -8322887662259906865
+    second: Enchanted_Diamond_Sword_3
+  - first:
+      213: 7201779527512183311
+    second: Enchanted_Diamond_Sword_4
+  - first:
+      213: 2703456182854951008
+    second: Enchanted_Diamond_Sword_5
+  - first:
+      213: 5626640659368889994
+    second: Enchanted_Diamond_Sword_6
+  - first:
+      213: 6879899781045464419
+    second: Enchanted_Diamond_Sword_7
+  - first:
+      213: 8578360630948650443
+    second: Enchanted_Diamond_Sword_8
+  - first:
+      213: -5447957641415468648
+    second: Enchanted_Diamond_Sword_9
+  - first:
+      213: 1081670926817713517
+    second: Enchanted_Diamond_Sword_10
+  - first:
+      213: -2459346874597496131
+    second: Enchanted_Diamond_Sword_11
+  - first:
+      213: 1864666518752350545
+    second: Enchanted_Diamond_Sword_12
+  - first:
+      213: -5032680592811008733
+    second: Enchanted_Diamond_Sword_13
+  - first:
+      213: 9107050592573281621
+    second: Enchanted_Diamond_Sword_14
+  - first:
+      213: -4622266360260832972
+    second: Enchanted_Diamond_Sword_15
+  - first:
+      213: -2271135616321274393
+    second: Enchanted_Diamond_Sword_16
+  - first:
+      213: 4270891508846853151
+    second: Enchanted_Diamond_Sword_17
+  - first:
+      213: 5995731428955663222
+    second: Enchanted_Diamond_Sword_18
+  - first:
+      213: 6906396824682849829
+    second: Enchanted_Diamond_Sword_19
+  - first:
+      213: -1371329856949247448
+    second: Enchanted_Diamond_Sword_20
+  - first:
+      213: -5527252815686662669
+    second: Enchanted_Diamond_Sword_21
+  - first:
+      213: -7552109416215451762
+    second: Enchanted_Diamond_Sword_22
+  - first:
+      213: 579388644086742759
+    second: Enchanted_Diamond_Sword_23
+  - first:
+      213: 8838643370156219803
+    second: Enchanted_Diamond_Sword_24
+  - first:
+      213: -7261422577237291272
+    second: Enchanted_Diamond_Sword_25
+  - first:
+      213: 6670960471363443076
+    second: Enchanted_Diamond_Sword_26
+  - first:
+      213: 1141096104219624149
+    second: Enchanted_Diamond_Sword_27
+  - first:
+      213: -1340533774648906206
+    second: Enchanted_Diamond_Sword_28
+  - first:
+      213: 9118349055969265148
+    second: Enchanted_Diamond_Sword_29
+  - first:
+      213: -5900278553865417031
+    second: Enchanted_Diamond_Sword_30
+  - first:
+      213: -8921891800545867527
+    second: Enchanted_Diamond_Sword_31
+  - first:
+      213: -5650475224019985061
+    second: Enchanted_Diamond_Sword_32
+  - first:
+      213: -1508090950544358213
+    second: Enchanted_Diamond_Sword_33
+  - first:
+      213: -4367313019527528475
+    second: Enchanted_Diamond_Sword_34
+  - first:
+      213: -7314319761873449838
+    second: Enchanted_Diamond_Sword_35
+  - first:
+      213: 6901285036825397692
+    second: Enchanted_Diamond_Sword_36
+  - first:
+      213: 7910930885271464529
+    second: Enchanted_Diamond_Sword_37
+  - first:
+      213: -532646994986347816
+    second: Enchanted_Diamond_Sword_38
+  - first:
+      213: 3096452724400598574
+    second: Enchanted_Diamond_Sword_39
+  - first:
+      213: -6930197054773829877
+    second: Enchanted_Diamond_Sword_40
+  - first:
+      213: -602697473524146042
+    second: Enchanted_Diamond_Sword_41
+  - first:
+      213: -7280634882296087315
+    second: Enchanted_Diamond_Sword_42
+  - first:
+      213: 1975001399282516337
+    second: Enchanted_Diamond_Sword_43
+  - first:
+      213: -6341410569474377721
+    second: Enchanted_Diamond_Sword_44
+  - first:
+      213: -2541415178552260603
+    second: Enchanted_Diamond_Sword_45
+  - first:
+      213: -3922732181596935614
+    second: Enchanted_Diamond_Sword_46
+  - first:
+      213: -7765632763878326374
+    second: Enchanted_Diamond_Sword_47
+  - first:
+      213: 906958721438452445
+    second: Enchanted_Diamond_Sword_48
+  - first:
+      213: -2229194687393210505
+    second: Enchanted_Diamond_Sword_49
+  - first:
+      213: 1284574210337982787
+    second: Enchanted_Diamond_Sword_50
+  - first:
+      213: 208370831844971845
+    second: Enchanted_Diamond_Sword_51
+  - first:
+      213: -1220306812440784420
+    second: Enchanted_Diamond_Sword_52
+  - first:
+      213: -4394785108922096336
+    second: Enchanted_Diamond_Sword_53
+  - first:
+      213: 641177975159033361
+    second: Enchanted_Diamond_Sword_54
+  - first:
+      213: 4989112281658346016
+    second: Enchanted_Diamond_Sword_55
+  - first:
+      213: 445378893445539865
+    second: Enchanted_Diamond_Sword_56
+  - first:
+      213: 7831770272266663680
+    second: Enchanted_Diamond_Sword_57
+  - first:
+      213: -5904989315898232673
+    second: Enchanted_Diamond_Sword_58
+  - first:
+      213: -6945146489195238742
+    second: Enchanted_Diamond_Sword_59
+  - first:
+      213: 2352170020095002365
+    second: Enchanted_Diamond_Sword_60
+  - first:
+      213: -3189500713137409482
+    second: Enchanted_Diamond_Sword_61
+  - first:
+      213: 7146510468450897491
+    second: Enchanted_Diamond_Sword_62
+  - first:
+      213: 1350719801825534948
+    second: Enchanted_Diamond_Sword_63
+  - first:
+      213: -1713923578695451196
+    second: Enchanted_Diamond_Sword_64
+  - first:
+      213: -2216838397152708220
+    second: Enchanted_Diamond_Sword_65
+  - first:
+      213: -5029880238664749988
+    second: Enchanted_Diamond_Sword_66
+  - first:
+      213: 7669415811299743312
+    second: Enchanted_Diamond_Sword_67
+  - first:
+      213: -3424241367708229146
+    second: Enchanted_Diamond_Sword_68
+  - first:
+      213: 2933613299106316703
+    second: Enchanted_Diamond_Sword_69
+  - first:
+      213: 8735815324558286655
+    second: Enchanted_Diamond_Sword_70
+  - first:
+      213: 2964012721666366061
+    second: Enchanted_Diamond_Sword_71
+  - first:
+      213: 2632233461066784831
+    second: Enchanted_Diamond_Sword_72
+  - first:
+      213: -6595967623591607165
+    second: Enchanted_Diamond_Sword_73
+  - first:
+      213: -2222995416577263072
+    second: Enchanted_Diamond_Sword_74
+  - first:
+      213: -9214570757481665655
+    second: Enchanted_Diamond_Sword_75
+  - first:
+      213: -4812143488097601631
+    second: Enchanted_Diamond_Sword_76
+  - first:
+      213: 3281721658123654733
+    second: Enchanted_Diamond_Sword_77
+  - first:
+      213: -6913640916630451049
+    second: Enchanted_Diamond_Sword_78
+  - first:
+      213: -8034382573493938035
+    second: Enchanted_Diamond_Sword_79
+  - first:
+      213: -9109532381108320599
+    second: Enchanted_Diamond_Sword_80
+  - first:
+      213: -2892065707141303835
+    second: Enchanted_Diamond_Sword_81
+  - first:
+      213: -6757326044780637921
+    second: Enchanted_Diamond_Sword_82
+  - first:
+      213: 7348562284985399206
+    second: Enchanted_Diamond_Sword_83
+  - first:
+      213: 47270103118163053
+    second: Enchanted_Diamond_Sword_84
+  - first:
+      213: 5371963665728527865
+    second: Enchanted_Diamond_Sword_85
+  - first:
+      213: -3252465308883154899
+    second: Enchanted_Diamond_Sword_86
+  - first:
+      213: 8438080303100087117
+    second: Enchanted_Diamond_Sword_87
+  - first:
+      213: -1968151772967058585
+    second: Enchanted_Diamond_Sword_88
+  - first:
+      213: 8881937503634566074
+    second: Enchanted_Diamond_Sword_89
+  - first:
+      213: -4867238229513880154
+    second: Enchanted_Diamond_Sword_90
+  - first:
+      213: 1686719432402356275
+    second: Enchanted_Diamond_Sword_91
+  - first:
+      213: -2627488173836578541
+    second: Enchanted_Diamond_Sword_92
+  - first:
+      213: -6981723792900345073
+    second: Enchanted_Diamond_Sword_93
+  - first:
+      213: 5312685970000975560
+    second: Enchanted_Diamond_Sword_94
+  - first:
+      213: -1411596175284208553
+    second: Enchanted_Diamond_Sword_95
+  - first:
+      213: 6672757184001437754
+    second: Enchanted_Diamond_Sword_96
+  - first:
+      213: 8155805114576360394
+    second: Enchanted_Diamond_Sword_97
+  - first:
+      213: -7706729421511882796
+    second: Enchanted_Diamond_Sword_98
+  - first:
+      213: 5249043602206856423
+    second: Enchanted_Diamond_Sword_99
+  - first:
+      213: -1095713975026952909
+    second: Enchanted_Diamond_Sword_100
+  - first:
+      213: -3138433754557621951
+    second: Enchanted_Diamond_Sword_101
+  - first:
+      213: -6108556755709679877
+    second: Enchanted_Diamond_Sword_102
+  - first:
+      213: -7988720425487907801
+    second: Enchanted_Diamond_Sword_103
+  - first:
+      213: 8801158552441317446
+    second: Enchanted_Diamond_Sword_104
+  - first:
+      213: -812524659520789396
+    second: Enchanted_Diamond_Sword_105
+  - first:
+      213: 6912649241114432687
+    second: Enchanted_Diamond_Sword_106
+  - first:
+      213: -3799397246987868605
+    second: Enchanted_Diamond_Sword_107
+  - first:
+      213: -8482517596927638087
+    second: Enchanted_Diamond_Sword_108
+  - first:
+      213: 2154700779580181192
+    second: Enchanted_Diamond_Sword_109
+  - first:
+      213: -6112035227318275197
+    second: Enchanted_Diamond_Sword_110
+  - first:
+      213: 652847129941704326
+    second: Enchanted_Diamond_Sword_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17915
+        width: 1120
+        height: 965
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3957a94baff602cb0800000000000000
+      internalID: -4890786072761829997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17599
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a131c4f02ef2d80800000000000000
+      internalID: -8273145435127604660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17439
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5af17ebf30acac50800000000000000
+      internalID: 6677888543122127451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17279
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6548984c92f7c80800000000000000
+      internalID: -8322887662259906865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17119
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f025b08d25cd1f360800000000000000
+      internalID: 7201779527512183311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16959
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06027e4231b948520800000000000000
+      internalID: 2703456182854951008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16799
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ec3745ed7d51e40800000000000000
+      internalID: 5626640659368889994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16639
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36da08b46605a7f50800000000000000
+      internalID: 6879899781045464419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16479
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdd3e23b857c0770800000000000000
+      internalID: 8578360630948650443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16319
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8995e00c367f464b0800000000000000
+      internalID: -5447957641415468648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16159
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d56dc1afdd20f00800000000000000
+      internalID: 1081670926817713517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15999
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba26283c05aeddd0800000000000000
+      internalID: -2459346874597496131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15839
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1515cc2c150a0e910800000000000000
+      internalID: 1864666518752350545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15679
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d5f754aa3582ab0800000000000000
+      internalID: -5032680592811008733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15519
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55557d1434eb26e70800000000000000
+      internalID: 9107050592573281621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15359
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4315a633c396adfb0800000000000000
+      internalID: -4622266360260832972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15199
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edbe60a03e4b70e0800000000000000
+      internalID: -2271135616321274393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15039
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c7c0bf231454b30800000000000000
+      internalID: 4270891508846853151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14879
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b2c87c7fd153350800000000000000
+      internalID: 5995731428955663222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14719
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5266b15025378df50800000000000000
+      internalID: 6906396824682849829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14559
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82227aeb2ce08fce0800000000000000
+      internalID: -1371329856949247448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14399
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5083949d04b43b0800000000000000
+      internalID: -5527252815686662669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14239
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87689daf74813790800000000000000
+      internalID: -7552109416215451762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14079
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee7fade6e66a0800800000000000000
+      internalID: 579388644086742759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13919
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dd586e05b29aa70800000000000000
+      internalID: 8838643370156219803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13759
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe05cf73ae3a3b90800000000000000
+      internalID: -7261422577237291272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13599
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4895a465433049c50800000000000000
+      internalID: 6670960471363443076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13439
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2c79a6cdcf5df00800000000000000
+      internalID: 1141096104219624149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13279
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e63a862a7756de0800000000000000
+      internalID: -1340533774648906206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13119
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf50113c722ea8e70800000000000000
+      internalID: 9118349055969265148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12959
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be0ff09aeffd1ea0800000000000000
+      internalID: -5900278553865417031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12799
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f84ef77da21f2480800000000000000
+      internalID: -8921891800545867527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12639
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d9424a8ba7591b0800000000000000
+      internalID: -5650475224019985061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12479
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb482db454f221be0800000000000000
+      internalID: -1508090950544358213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12319
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef7f10a2ff2463c0800000000000000
+      internalID: -4367313019527528475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12159
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cc9e3fde05e7a90800000000000000
+      internalID: -7314319761873449838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11999
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb942b92d2a46cf50800000000000000
+      internalID: 6901285036825397692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11839
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15aa54be9b549cd60800000000000000
+      internalID: 7910930885271464529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11679
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2d8215168ab98f0800000000000000
+      internalID: -532646994986347816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11519
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e20bdd85fc8fa20800000000000000
+      internalID: 3096452724400598574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11359
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f5fb61f7ef2df90800000000000000
+      internalID: -6930197054773829877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11199
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680619f47d9c2a7f0800000000000000
+      internalID: -602697473524146042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11039
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec7c65262df5fa90800000000000000
+      internalID: -7280634882296087315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10879
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17142230f4d986b10800000000000000
+      internalID: 1975001399282516337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10719
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708729f6fa8cef7a0800000000000000
+      internalID: -6341410569474377721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10559
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5084b9f2c541bbcd0800000000000000
+      internalID: -2541415178552260603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10399
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24aebe64dd7af89c0800000000000000
+      internalID: -3922732181596935614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10239
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fb5e4352eea3490800000000000000
+      internalID: -7765632763878326374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10079
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda0841e62a269c00800000000000000
+      internalID: 906958721438452445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9919
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f5dba1e3f4011e0800000000000000
+      internalID: -2229194687393210505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9759
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349c2d63079b3d110800000000000000
+      internalID: 1284574210337982787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9599
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5451ca5ea2844e200800000000000000
+      internalID: 208370831844971845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9439
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd15a776b69901fe0800000000000000
+      internalID: -1220306812440784420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9279
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035a58e5a369203c0800000000000000
+      internalID: -4394785108922096336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9119
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e8827a8fbe5e800800000000000000
+      internalID: 641177975159033361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8959
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ac8cccf23ec3540800000000000000
+      internalID: 4989112281658346016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8799
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918274e6ebd4e2600800000000000000
+      internalID: 445378893445539865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8639
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0073be0719900bc60800000000000000
+      internalID: 7831770272266663680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8479
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90b86fc0834d0ea0800000000000000
+      internalID: -5904989315898232673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8319
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa6776a012ed9f90800000000000000
+      internalID: -6945146489195238742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8159
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df60613cb2694a020800000000000000
+      internalID: 2352170020095002365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7999
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632f696000e9cb3d0800000000000000
+      internalID: -3189500713137409482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7839
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e40af38618d2360800000000000000
+      internalID: 7146510468450897491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7679
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3a5ead088beb210800000000000000
+      internalID: 1350719801825534948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7519
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdf0bff59be638e0800000000000000
+      internalID: -1713923578695451196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7359
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489344d19353c31e0800000000000000
+      internalID: -2216838397152708220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7199
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c61a78296423ab0800000000000000
+      internalID: -5029880238664749988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7039
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056194bcb0d3f6a60800000000000000
+      internalID: 7669415811299743312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6879
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1ad845e96aa70d0800000000000000
+      internalID: -3424241367708229146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6719
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f910899a0c946b820800000000000000
+      internalID: 2933613299106316703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6559
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fd5bbd0c9db3970800000000000000
+      internalID: 8735815324558286655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6399
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a99a8cdd9422920800000000000000
+      internalID: 2964012721666366061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6239
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3068ccf262978420800000000000000
+      internalID: 2632233461066784831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6079
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38448dda46a6674a0800000000000000
+      internalID: -6595967623591607165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5919
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a379152755621e0800000000000000
+      internalID: -2222995416577263072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5759
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b6a9a87b44f1080800000000000000
+      internalID: -9214570757481665655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5599
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7bbbf4ef4d73db0800000000000000
+      internalID: -4812143488097601631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5439
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d469a24f5740b8d20800000000000000
+      internalID: 3281721658123654733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5279
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cc2a36730dd00a0800000000000000
+      internalID: -6913640916630451049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5119
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d881e4d0e93208090800000000000000
+      internalID: -8034382573493938035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4959
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6ce125090749180800000000000000
+      internalID: -9109532381108320599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4799
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1f0caef815dd7d0800000000000000
+      internalID: -2892065707141303835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4639
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11da5d93c72932a0800000000000000
+      internalID: -6757326044780637921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4479
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7336eb6765bf560800000000000000
+      internalID: 7348562284985399206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4319
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6caad888efe7a000800000000000000
+      internalID: 47270103118163053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4159
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fddd0afd7c0d8a40800000000000000
+      internalID: 5371963665728527865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3999
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d280dbba80cecd2d0800000000000000
+      internalID: -3252465308883154899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3839
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b408c24551a1570800000000000000
+      internalID: 8438080303100087117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3679
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7634e34e368bfa4e0800000000000000
+      internalID: -1968151772967058585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3519
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbab5dd91bf24b70800000000000000
+      internalID: 8881937503634566074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3359
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adbf943e98147cb0800000000000000
+      internalID: -4867238229513880154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3199
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338471c136e686710800000000000000
+      internalID: 1686719432402356275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3039
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3115eea4d69498bd0800000000000000
+      internalID: -2627488173836578541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2879
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03384c733feb1f90800000000000000
+      internalID: -6981723792900345073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2719
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c61c1dedb37ab940800000000000000
+      internalID: 5312685970000975560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2559
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c72ede1c0096ce0800000000000000
+      internalID: -1411596175284208553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2399
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3077d81e456a9c50800000000000000
+      internalID: 6672757184001437754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2239
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac353a75a8d3f2170800000000000000
+      internalID: 8155805114576360394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2079
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d78bb25c623c0590800000000000000
+      internalID: -7706729421511882796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1919
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e49318785958d840800000000000000
+      internalID: 5249043602206856423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1759
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335561fe1fd3bc0f0800000000000000
+      internalID: -1095713975026952909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1599
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1495f7cd02b0274d0800000000000000
+      internalID: -3138433754557621951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1439
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6ac95cefb0a3ba0800000000000000
+      internalID: -6108556755709679877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1279
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724c2ec591d522190800000000000000
+      internalID: -7988720425487907801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1119
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648e72aa21ff32a70800000000000000
+      internalID: 8801158552441317446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 959
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64a40a802559b4f0800000000000000
+      internalID: -812524659520789396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 799
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4df792cd9aeef50800000000000000
+      internalID: 6912649241114432687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346e0bc7554d54bc0800000000000000
+      internalID: -3799397246987868605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5c02a103b084a80800000000000000
+      internalID: -8482517596927638087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca422461f807ed10800000000000000
+      internalID: 2154700779580181192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 1120
+        height: 1122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383350df750bd2ba0800000000000000
+      internalID: -6112035227318275197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enchanted_Diamond_Sword_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1120
+        height: 1121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68efec871016f0900800000000000000
+      internalID: 652847129941704326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e97feee61fbad804981a247366dd48f0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Enchanted_Diamond_Sword_0: -4890786072761829997
+      Enchanted_Diamond_Sword_1: -8273145435127604660
+      Enchanted_Diamond_Sword_10: 1081670926817713517
+      Enchanted_Diamond_Sword_100: -1095713975026952909
+      Enchanted_Diamond_Sword_101: -3138433754557621951
+      Enchanted_Diamond_Sword_102: -6108556755709679877
+      Enchanted_Diamond_Sword_103: -7988720425487907801
+      Enchanted_Diamond_Sword_104: 8801158552441317446
+      Enchanted_Diamond_Sword_105: -812524659520789396
+      Enchanted_Diamond_Sword_106: 6912649241114432687
+      Enchanted_Diamond_Sword_107: -3799397246987868605
+      Enchanted_Diamond_Sword_108: -8482517596927638087
+      Enchanted_Diamond_Sword_109: 2154700779580181192
+      Enchanted_Diamond_Sword_11: -2459346874597496131
+      Enchanted_Diamond_Sword_110: -6112035227318275197
+      Enchanted_Diamond_Sword_111: 652847129941704326
+      Enchanted_Diamond_Sword_12: 1864666518752350545
+      Enchanted_Diamond_Sword_13: -5032680592811008733
+      Enchanted_Diamond_Sword_14: 9107050592573281621
+      Enchanted_Diamond_Sword_15: -4622266360260832972
+      Enchanted_Diamond_Sword_16: -2271135616321274393
+      Enchanted_Diamond_Sword_17: 4270891508846853151
+      Enchanted_Diamond_Sword_18: 5995731428955663222
+      Enchanted_Diamond_Sword_19: 6906396824682849829
+      Enchanted_Diamond_Sword_2: 6677888543122127451
+      Enchanted_Diamond_Sword_20: -1371329856949247448
+      Enchanted_Diamond_Sword_21: -5527252815686662669
+      Enchanted_Diamond_Sword_22: -7552109416215451762
+      Enchanted_Diamond_Sword_23: 579388644086742759
+      Enchanted_Diamond_Sword_24: 8838643370156219803
+      Enchanted_Diamond_Sword_25: -7261422577237291272
+      Enchanted_Diamond_Sword_26: 6670960471363443076
+      Enchanted_Diamond_Sword_27: 1141096104219624149
+      Enchanted_Diamond_Sword_28: -1340533774648906206
+      Enchanted_Diamond_Sword_29: 9118349055969265148
+      Enchanted_Diamond_Sword_3: -8322887662259906865
+      Enchanted_Diamond_Sword_30: -5900278553865417031
+      Enchanted_Diamond_Sword_31: -8921891800545867527
+      Enchanted_Diamond_Sword_32: -5650475224019985061
+      Enchanted_Diamond_Sword_33: -1508090950544358213
+      Enchanted_Diamond_Sword_34: -4367313019527528475
+      Enchanted_Diamond_Sword_35: -7314319761873449838
+      Enchanted_Diamond_Sword_36: 6901285036825397692
+      Enchanted_Diamond_Sword_37: 7910930885271464529
+      Enchanted_Diamond_Sword_38: -532646994986347816
+      Enchanted_Diamond_Sword_39: 3096452724400598574
+      Enchanted_Diamond_Sword_4: 7201779527512183311
+      Enchanted_Diamond_Sword_40: -6930197054773829877
+      Enchanted_Diamond_Sword_41: -602697473524146042
+      Enchanted_Diamond_Sword_42: -7280634882296087315
+      Enchanted_Diamond_Sword_43: 1975001399282516337
+      Enchanted_Diamond_Sword_44: -6341410569474377721
+      Enchanted_Diamond_Sword_45: -2541415178552260603
+      Enchanted_Diamond_Sword_46: -3922732181596935614
+      Enchanted_Diamond_Sword_47: -7765632763878326374
+      Enchanted_Diamond_Sword_48: 906958721438452445
+      Enchanted_Diamond_Sword_49: -2229194687393210505
+      Enchanted_Diamond_Sword_5: 2703456182854951008
+      Enchanted_Diamond_Sword_50: 1284574210337982787
+      Enchanted_Diamond_Sword_51: 208370831844971845
+      Enchanted_Diamond_Sword_52: -1220306812440784420
+      Enchanted_Diamond_Sword_53: -4394785108922096336
+      Enchanted_Diamond_Sword_54: 641177975159033361
+      Enchanted_Diamond_Sword_55: 4989112281658346016
+      Enchanted_Diamond_Sword_56: 445378893445539865
+      Enchanted_Diamond_Sword_57: 7831770272266663680
+      Enchanted_Diamond_Sword_58: -5904989315898232673
+      Enchanted_Diamond_Sword_59: -6945146489195238742
+      Enchanted_Diamond_Sword_6: 5626640659368889994
+      Enchanted_Diamond_Sword_60: 2352170020095002365
+      Enchanted_Diamond_Sword_61: -3189500713137409482
+      Enchanted_Diamond_Sword_62: 7146510468450897491
+      Enchanted_Diamond_Sword_63: 1350719801825534948
+      Enchanted_Diamond_Sword_64: -1713923578695451196
+      Enchanted_Diamond_Sword_65: -2216838397152708220
+      Enchanted_Diamond_Sword_66: -5029880238664749988
+      Enchanted_Diamond_Sword_67: 7669415811299743312
+      Enchanted_Diamond_Sword_68: -3424241367708229146
+      Enchanted_Diamond_Sword_69: 2933613299106316703
+      Enchanted_Diamond_Sword_7: 6879899781045464419
+      Enchanted_Diamond_Sword_70: 8735815324558286655
+      Enchanted_Diamond_Sword_71: 2964012721666366061
+      Enchanted_Diamond_Sword_72: 2632233461066784831
+      Enchanted_Diamond_Sword_73: -6595967623591607165
+      Enchanted_Diamond_Sword_74: -2222995416577263072
+      Enchanted_Diamond_Sword_75: -9214570757481665655
+      Enchanted_Diamond_Sword_76: -4812143488097601631
+      Enchanted_Diamond_Sword_77: 3281721658123654733
+      Enchanted_Diamond_Sword_78: -6913640916630451049
+      Enchanted_Diamond_Sword_79: -8034382573493938035
+      Enchanted_Diamond_Sword_8: 8578360630948650443
+      Enchanted_Diamond_Sword_80: -9109532381108320599
+      Enchanted_Diamond_Sword_81: -2892065707141303835
+      Enchanted_Diamond_Sword_82: -6757326044780637921
+      Enchanted_Diamond_Sword_83: 7348562284985399206
+      Enchanted_Diamond_Sword_84: 47270103118163053
+      Enchanted_Diamond_Sword_85: 5371963665728527865
+      Enchanted_Diamond_Sword_86: -3252465308883154899
+      Enchanted_Diamond_Sword_87: 8438080303100087117
+      Enchanted_Diamond_Sword_88: -1968151772967058585
+      Enchanted_Diamond_Sword_89: 8881937503634566074
+      Enchanted_Diamond_Sword_9: -5447957641415468648
+      Enchanted_Diamond_Sword_90: -4867238229513880154
+      Enchanted_Diamond_Sword_91: 1686719432402356275
+      Enchanted_Diamond_Sword_92: -2627488173836578541
+      Enchanted_Diamond_Sword_93: -6981723792900345073
+      Enchanted_Diamond_Sword_94: 5312685970000975560
+      Enchanted_Diamond_Sword_95: -1411596175284208553
+      Enchanted_Diamond_Sword_96: 6672757184001437754
+      Enchanted_Diamond_Sword_97: 8155805114576360394
+      Enchanted_Diamond_Sword_98: -7706729421511882796
+      Enchanted_Diamond_Sword_99: 5249043602206856423
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
