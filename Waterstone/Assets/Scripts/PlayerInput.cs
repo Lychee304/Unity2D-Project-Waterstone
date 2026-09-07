@@ -1,6 +1,7 @@
 using System;
-using UnityEngine;
 using TMPro;
+using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerInput : MonoBehaviour
 {
@@ -9,6 +10,10 @@ public class PlayerInput : MonoBehaviour
     [SerializeField] private string _coinTag = "Coin";
     [SerializeField] private string _powerUp = "PowerUp";
     [SerializeField] private float _addSpeed = 1;
+
+    private String _directCT = "DirectionC"; // direction C Tag
+    private String _directBT = "DirectionB"; // direction B Tag
+    private String _directAT = "DirectionA"; // direction C Tag
 
     private int _coins = 0;
     public int score = 0;
@@ -56,6 +61,48 @@ public class PlayerInput : MonoBehaviour
             transform.rotation = Quaternion.Euler(0, 0, 0);
         }
     }
+
+
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        CoinValue coinValue;
+        if (collision.gameObject.CompareTag(_coinTag) && collision.gameObject.TryGetComponent<CoinValue>(out coinValue))
+        {
+            score += coinValue.GetScoreWorth();
+            print("current score: " + score);
+
+
+
+            Destroy(collision.gameObject);
+            _coins++;
+            print("You now have " + _coins + " coins, hell yeah!");
+        }
+
+        if (collision.gameObject.CompareTag(_directCT))
+        {
+            SceneManager.LoadScene("DirectC");
+        }
+
+
+        if (collision.gameObject.CompareTag(_directBT))
+        {
+            SceneManager.LoadScene("DirectB");
+        }
+
+
+        if (collision.gameObject.CompareTag(_directAT))
+        {
+            SceneManager.LoadScene("DirectA");
+        }
+
+
+        if (collision.gameObject.tag == "Enemy")
+        {
+            SceneManager.LoadScene("GameOver");
+        }
+    
+
     /*
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -99,4 +146,6 @@ public class PlayerInput : MonoBehaviour
 
     // print(collision.gameObject.transform.position);
 
+    }
+}
 }

@@ -7,6 +7,12 @@ TagManager:
   - Enemy
   - PlayerHead
   - Weapon
+  - PlayerHead
+  - Weapon
+  - Coin
+  - DirectionC
+  - DirectionB
+  - DirectionA
   layers:
   - Default
   - TransparentFX

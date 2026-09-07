@@ -4,6 +4,16 @@ public class EnemyDamage : MonoBehaviour
 {
     private PlayerHealth _playerHealth;
     private int _damage = 20;
+using System;
+using TMPro;
+using UnityEngine;
+using UnityEngine.InputSystem.Layouts;
+using UnityEngine.Rendering;
+using UnityEngine.SceneManagement;
+
+
+public class EnemyDamage : MonoBehaviour
+{
     void Start()
     {
 
@@ -21,6 +31,7 @@ public class EnemyDamage : MonoBehaviour
         if (collision.gameObject.tag == "Player")
         {
             _playerHealth.TakeDamage(_damage);
+            SceneManager.LoadScene("GameOver");
         }
     }
 }
