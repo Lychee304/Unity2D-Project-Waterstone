@@ -61,6 +61,46 @@ public class PlayerInput : MonoBehaviour
             transform.rotation = Quaternion.Euler(0, 0, 0);
         }
     }
+    /*
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.gameObject.)
+    }
+
+    */
+
+
+
+    // collider? i hardly know her
+
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            _health -= 50;
+            print("current health: " + _health);
+
+
+
+            Destroy(collision.gameObject);
+            print("You now have die lmao");
+        }
+
+        /*
+
+        SpeedUp speedUp;
+
+        if (collision.gameObject.CompareTag(_powerUp) && collision.gameObject.TryGetComponent<SpeedUp>(out speedUp))
+        {
+            Destroy(collision.gameObject);
+            _speed =+ _addSpeed;
+            print("iem veri fastdd!!!");
+        }
+
+    */
+
+        // print(collision.gameObject.transform.position);
 
 
 
