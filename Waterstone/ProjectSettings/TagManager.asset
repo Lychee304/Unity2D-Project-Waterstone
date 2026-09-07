@@ -3,16 +3,6 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags:
-  - Enemy
-  - PlayerHead
-  - Weapon
-  - PlayerHead
-  - Weapon
-  - Coin
-  - DirectionC
-  - DirectionB
-  - DirectionA
   tags: []
   layers:
   - Default

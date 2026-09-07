@@ -536,9 +536,16 @@ GameObject:
   - component: {fileID: 5379690669959047576}
   m_Layer: 0
   m_Name: Enemy_Angy_Box
+<<<<<<< Updated upstream
   m_TagString: Untagged
   m_TagString: Enemy
+=======
+<<<<<<< Updated upstream
+  m_TagString: Untagged
+=======
   m_TagString: Enemy
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
