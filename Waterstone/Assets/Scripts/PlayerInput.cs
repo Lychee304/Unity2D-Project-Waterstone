@@ -96,5 +96,48 @@ public class PlayerInput : MonoBehaviour
 
         // print(collision.gameObject.transform.position);
 
+
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        CoinValue coinValue;
+        if (collision.gameObject.CompareTag(_coinTag) && collision.gameObject.TryGetComponent<CoinValue>(out coinValue))
+        {
+            score += coinValue.GetScoreWorth();
+            print("current score: " + score);
+
+
+
+            Destroy(collision.gameObject);
+            _coins++;
+            print("You now have " + _coins + " coins, hell yeah!");
+        }
+
+        if (collision.gameObject.CompareTag(_directCT))
+        {
+            SceneManager.LoadScene("DirectC");
+        }
+
+
+        if (collision.gameObject.CompareTag(_directBT))
+        {
+            SceneManager.LoadScene("DirectB");
+        }
+
+
+        if (collision.gameObject.CompareTag(_directAT))
+        {
+            SceneManager.LoadScene("DirectA");
+        }
+
+
+        if (collision.gameObject.tag == "Enemy")
+        {
+            SceneManager.LoadScene("GameOver");
+        }
+
+
+        // collider? i hardly know her
+
     }
 }
