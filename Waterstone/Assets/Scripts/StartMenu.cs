@@ -17,7 +17,7 @@ public class StartMenu : MonoBehaviour
 
     public void OnStartClick()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("workingScene");
     }
 
     public void onExitClick()
